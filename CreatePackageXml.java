@@ -23,7 +23,7 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Text;
-
+//added comment
 public class CreatePackageXml {
 
 	private static HashMap<String, List<String>> refinedFiles = new HashMap<String, List<String>>();
